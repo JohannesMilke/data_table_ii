@@ -1,4 +1,0 @@
-#Thu Dec 20 20:02:42 CET 2018
-base.0=C\:\\flutter_projects\\advent20_data_table_ii\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
